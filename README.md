@@ -1,1 +1,1 @@
-# Lagrange
+# Lagrange’s interpolation
